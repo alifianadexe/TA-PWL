@@ -176,6 +176,7 @@ $pengurangan = $data2['pengurangan'];
                     <h3 class="mbr-section-title mbr-fonts-style mb-3 display-5"><strong>E-wallet</strong></h3>
                 </div>
                     <p>
+                        <label>Harga: 52.500 </label><br><br>
                         <label>No. Handphone &nbsp;</label>
                             <input type="text" name="phone" placeholder="Masukan Nomor Handphone">
 	                </p>
