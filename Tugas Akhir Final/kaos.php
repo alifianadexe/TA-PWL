@@ -169,6 +169,7 @@ $pengurangan = $data2['pengurangan'];
                     <div class="text-wrapper">
                         <h3 class="mbr-section-title mbr-fonts-style mb-3 display-5"><strong>Kaos Keren</strong></h3>
                             <p>
+                                <label>Harga: 75.000 </label><br><br>
                                 <label>UKURAN &nbsp;</label>
 	                                <select name='ukuran'>
                                         <option> Pilih Ukuran </option>
